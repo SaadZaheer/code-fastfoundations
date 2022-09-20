@@ -102,10 +102,10 @@ def main():
     # opening_and_closing_files()
     # reading_file_contents()
     # iterating_over_file_contents()
-    # navigating_files()
+    navigating_files() # error
     # working_with_paths()
     # testing_paths()
-    useful_path_operations()
+    # useful_path_operations()
     return 0
 
 

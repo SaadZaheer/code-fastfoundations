@@ -30,8 +30,9 @@ def loop_over_file():
 
 def main():
     # plain_while()
-    # complex_while()
-    loop_over_file()
+    complex_while()
+    # loop_2
+    # over_file()
     return 0
 
 
